@@ -1,0 +1,2 @@
+# PintOS
+A school project where we implemented a blocking functionality instead of the busy-wait looping originally found in the PintOS. We also implemented a (relatively) simple scheduler where the system bus was viewed as a narrow bridge implementation, and we were only allowed to have three senders or receivers at any point in time; priorities were also considered when choosing which process goes first.
